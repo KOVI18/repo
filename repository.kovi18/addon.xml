@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kovi18" 
+name="[COLOR deepskyblue][B]KOVI[/B][COLORazure]18[/COLOR] [COLORaqua]Repository[/COLOR]"
+version="1.0.18" 
+  provider-name="[COLORdeepskyblue][B]KOVI[/B][COLORazure]18[/COLOR]">
+  <requires>
+    <extension point="xbmc.addon.repository" name="[COLOR deepskyblue][B]KOVI[/B][COLORazure]18[/COLOR] [COLORaqua]Repository[/COLOR]">
+    				   <dir minversion="18.0" maxversion="18.9.0"><!--KOVI LEIA-->
+            <info compressed="false">https://kovi.ml/repo/addons.xml</info> <checksum>https:/kovi.ml/repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://kovi.ml/repo/zips/</datadir>
+        </dir>
+        <dir minversion="18.9.0"><!--KOVI MATRIX-->
+            <info compressed="false">https://kovi.ml/repo/master/matrix/zips/addons.xml</info>
+            <checksum>https://kovi.ml/repo/master/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://kovi.ml/repo/master/matrix/zips/</datadir>
+        </dir>
+
+        <dir minversion="18.0" maxversion="18.9.0"><!--LoonaticsAsylum LEIA-->
+            <info compressed="false">https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/leia/zips/addons.xml</info> <checksum>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/leia/zips/</datadir>
+        </dir>
+        <dir minversion="18.9.0"><!--LoonaticsAsylum MATRIX-->
+            <info compressed="false">https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/matrix/zips/</datadir>
+        </dir>
+        <dir><!--MyAccounts-->
+            <info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/</datadir>
+        </dir>
+        <dir><!--FenomScrapers-->
+            <info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/mr-kodi/repository.fenomscrapers/master/zips/</datadir>
+        </dir>
+        <dir><!--SlyGuyTV-->
+            <info compressed="false">https://k.slyguy.xyz/.repo/addons.xml</info>
+            <checksum>https://k.slyguy.xyz/.repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://k.slyguy.xyz/.repo/</datadir>
+        </dir>
+        <dir><!--OpenScrapers-->
+            <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
+        </dir>
+        <dir minversion="18.0" maxversion="18.9.0"><!--UniversalScrapers LEIA-->
+            <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+        </dir>
+        <dir><!--ResolveUrl-->
+            <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+        </dir>
+        <dir><!--Gujal-->
+            <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+        </dir>
+        <dir><!--Gujal-->
+            <info compressed="false">https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml</info>
+            <checksum>https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.github.com/Gujal00/GujalKodiWork/master/zips/</datadir>
+        </dir>
+        <dir minversion="18.0" maxversion="18.9.0"><!--jurialmunkey LEIA-->
+            <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/</datadir>
+        </dir>
+        <dir minversion="18.9.0"><!--jurialmunkey MATRIX-->
+            <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/</datadir>
+        </dir>
+        <dir minversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/matrix/zips/addons.xml</info> <checksum>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/matrix/zips/</datadir>
+        </dir>
+        <dir minversion="18.0" maxversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/leia/zips/addons.xml</info> <checksum>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/leia/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+       <summary lang="de">[COLOR deepskyblue]KOVI[/COLOR][COLORazure]18[/COLOR] [COLORaqua]Repository[/COLOR]</summary>
+    <description lang="de">Offizielle Addon Repository fuer KOVI Mediencenter Version 18.x (Leia)[CR][CR]Besuchen sie unsere Telegram-Gruppe:[CR][COLOR deepskyblue]https://t.me/koviml[/COLOR][CR][CR]Startseite fuer Android TV:[CR][COLOR deepskyblue]https://kovi.ml[/COLOR]</description>
+    <summary lang="en">[COLOR deepskyblue]KOVI[/COLOR][COLORazure]18[/COLOR] [COLORaqua]Repository[/COLOR]</summary>
+    <description lang="en">Official Addon Repository for KOVI Mediacenter Version 18.x (Leia)[CR][CR]Besuchen sie uns in unserer Facebook-Gruppe:[CR][COLOR deepskyblue]https://t.me/koviml[/COLOR][CR][CR]Startpage for Android TV:[CR][COLOR deepskyblue]https://kovi.ml[/COLOR]</description>
+    <platform>Android</platform>
+	<forum>https://t.me/koviml</forum>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
+  </extension>
+</addon>
