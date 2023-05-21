@@ -99,11 +99,11 @@ WIZARDFILE     = ''
 # Enable Auto Install 'Yes' or 'No'
 AUTOINSTALL    = 'Yes'
 # Addon ID for the repository
-REPOID         = 'repository.kovi'
+REPOID         = 'repository.kovi18'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML   = 'https://kovi.ml/_repo/_downloads/addons.xml'
+REPOADDONXML   = 'https://kovi.ml/repo/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL     = 'https://kovi.ml/_repo/_downloads/repository.kovi/'
+REPOZIPURL     = 'https://kovi.ml/repo/repository.kovi18/'
 #########################################################
 
 #########################################################
@@ -123,7 +123,7 @@ HEADERIMAGE    = 'https://kovi.ml/addon/wizard/img/kovibanner.png'
 # Font for Notification Window
 FONTSETTINGS   = 'Font14'
 # Background for Notification Window
-BACKGROUND     = 'https://kovi.ml/addon/wizard/img/infobackground (1).jng'
+BACKGROUND     = 'https://kovi.ml/addon/wizard/img/infobackground.jpg'
 #########################################################
 
 
@@ -235,11 +235,11 @@ ENABLE         = 'Yes'
 NOTIFICATION   = 'https://kovi.ml/addon/wizard/data/notification.txt'
 # Use either 'Text' or 'Image'
 HEADERTYPE     = 'Image'
-HEADERMESSAGE  = 'Mediencenter Installation'
+HEADERMESSAGE  = 'Mediencenter KOVI'
 # url to image if using Image 424x180
 HEADERIMAGE    = 'https://kovi.ml/addon/wizard/img/kovibanner.png'
 # Background for Notification Window
-BACKGROUND     = 'https://kovi.ml/addon/wizard/img/infobackground (1).jng'
+BACKGROUND     = 'https://kovi.ml/addon/wizard/img/infobackground.jpg'
 		
 ################################################################################
 #                 modified by KOVI - / 10.2022            #
